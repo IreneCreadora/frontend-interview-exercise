@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Scissors",
+    "wins": {
+      "Paper": "Cuts Paper",
+      "Lizard": "Decapitates Lizard"
+    }
+  },
+  {
+    "name": "Paper",
+    "wins": {
+      "Rock": "Covers Rock",
+      "Spock": "Disproves Spock"
+    }
+  },
+  {
+    "name": "Lizard",
+    "wins": {
+      "Paper": "Eats Paper",
+      "Lizard": "Poisons Spock"
+    }
+  },
+  {
+    "name": "Rock",
+    "wins": {
+      "Scissors": "Crushes Scissors",
+      "Lizard": "Crushes Lizard"
+    }
+  },
+  {
+    "name": "Spock",
+    "wins": {
+      "Scissors": "Smashes Scissors",
+      "Rock": "Vaporizes Rock"
+    }
+  }
+]
