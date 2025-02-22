@@ -1,9 +1,9 @@
 [
   {
-    "name": "Scissors",
+    "name": "Rock",
     "wins": {
-      "Paper": "Cuts Paper",
-      "Lizard": "Decapitates Lizard"
+      "Scissors": "Crushes Scissors",
+      "Lizard": "Crushes Lizard"
     }
   },
   {
@@ -14,17 +14,17 @@
     }
   },
   {
-    "name": "Lizard",
+    "name": "Scissors",
     "wins": {
-      "Paper": "Eats Paper",
-      "Lizard": "Poisons Spock"
+      "Paper": "Cuts Paper",
+      "Lizard": "Decapitates Lizard"
     }
   },
   {
-    "name": "Rock",
+    "name": "Lizard",
     "wins": {
-      "Scissors": "Crushes Scissors",
-      "Lizard": "Crushes Lizard"
+      "Paper": "Eats Paper",
+      "Spock": "Poisons Spock"
     }
   },
   {
